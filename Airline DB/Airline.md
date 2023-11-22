@@ -233,8 +233,6 @@ ORDER BY
     timings ASC;
 ```
 
-Certainly! Here are the additional SQL queries formatted for a README.md file:
-
 ### 11. Find list of airport codes in Europe/Moscow timezone
 
 ```sql
@@ -404,7 +402,6 @@ WHERE
 GROUP BY
     1;
 ```
-Certainly! Here are the additional SQL queries formatted for a README.md file:
 
 ### 21. Write a query to extract flight details having a range between 3000 and 6000 and flying from DME
 
